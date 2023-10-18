@@ -1,2 +1,3 @@
 # apnacollege-demo
-its my fisrt demo project
+This is my fisrt Repo
+Author-Sachin Idhate
